@@ -1,4 +1,4 @@
-FROM python:3.12.0b1
+FROM python:3.12-rc-slim-bookworm
 
 MAINTAINER Simon Toivo Telhaug <simon.toivo@gmail.com>
 
