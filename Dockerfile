@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3.12.0b1
 
 MAINTAINER Simon Toivo Telhaug <simon.toivo@gmail.com>
 
